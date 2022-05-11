@@ -373,7 +373,7 @@ section.duke table tbody>tr:nth-child(odd) th {
 
 section.title {
     background-image: url(https://gitcdn.link/cdn/lyyc199586/marp-themes/master/themes/duke/assets/duke.jpg);
-    background-position: center, bottom;
+    background-position: right 50% bottom 10%;
     background-size: 150px auto;
     background-repeat: no-repeat;
     justify-content: center;
