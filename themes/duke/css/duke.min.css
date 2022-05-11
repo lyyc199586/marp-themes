@@ -269,6 +269,8 @@ section {
   background-repeat: no-repeat;
   background-position: bottom 20px left 20px;
   background-size: 150px auto;
+  font-size: 20px;
+  font-family: Roboto, "Avenir Next", Avenir, "Trebuchet MS", "Segoe UI", sans-serif;
   height: 720px;
   line-height: 1.35;
   letter-spacing: 1.25px;
@@ -371,7 +373,7 @@ section.duke table tbody>tr:nth-child(odd) th {
 
 section.title {
     background-image: url(https://gitcdn.link/cdn/lyyc199586/marp-themes/master/themes/duke/assets/duke.jpg);
-    background-size: auto;
+    background-size: 50%;
     background-repeat: no-repeat;
     color: #012169;
     background-color: #ffffff
