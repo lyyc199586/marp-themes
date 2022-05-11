@@ -269,6 +269,14 @@ section {
   background-repeat: no-repeat;
   background-position: bottom 20px left 20px;
   background-size: 150px auto;
+  height: 720px;
+  line-height: 1.35;
+  letter-spacing: 1.25px;
+  padding: 70px;
+  width: 1280px;
+  word-wrap: break-word;
+  color: #012169;
+  background-color: #fff
 }
 
 section a,
