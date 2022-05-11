@@ -6,7 +6,9 @@ theme: duke
 <!-- _class: title -->
 # Testing
 
-This is a test to see how things go
+## This is a test to see how things go
+
+Yangyuanchen Liu
 `04/05/2021`
 
 ---
