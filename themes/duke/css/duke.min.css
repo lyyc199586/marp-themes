@@ -429,8 +429,8 @@ section.subheadder {
     text-align: center;
     display: flex;
     flex-direction: column;
-    color: #fff;
-    background-color: #00274C
+    color: #00274C;
+    background-color: #ffffff
 }
 
 section.subheadder a,
