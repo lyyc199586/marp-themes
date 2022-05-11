@@ -268,7 +268,7 @@ section {
   background-image: url(https://gitcdn.link/cdn/lyyc199586/marp-themes/master/themes/duke/assets/duke-foot.jpg);
   background-repeat: no-repeat;
   background-position: bottom 20px left 20px;
-  background-size: 300px auto;
+  background-size: 150px auto;
   font-size: 20px;
   font-family: Roboto, "Avenir Next", Avenir, "Trebuchet MS", "Segoe UI", sans-serif;
   height: 720px;
@@ -373,7 +373,8 @@ section.duke table tbody>tr:nth-child(odd) th {
 
 section.title {
     background-image: url(https://gitcdn.link/cdn/lyyc199586/marp-themes/master/themes/duke/assets/duke.jpg);
-    background-size: 50%;
+    background-position: center 20px right 20px;
+    background-size: 150px auto;
     background-repeat: no-repeat;
     color: #012169;
     background-color: #ffffff
@@ -536,7 +537,7 @@ header {
 }
 
 footer {
-    left: 0;
+    left: 150px;
     right: 0;
     bottom: 0
 }
