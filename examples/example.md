@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: umich
+theme: duke
 ---
 
 <!-- _class: title -->
